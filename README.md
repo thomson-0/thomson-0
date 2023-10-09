@@ -34,3 +34,19 @@
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thomson-0&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="thomson-0" />
+
+[<img src="https://github-readme-stats.vercel.app/api?username=thomson-0&show_icons=true&include_all_commits=true&theme=highcontrast&locale=en" alt="thomson-0" />]: #
+
+<!-- This is a comment, and it won't be displayed in the rendered README -->
+
+
+
+<!-- This is another comment -->
+
+
+
+
+
+
