@@ -36,6 +36,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thomsonxavier&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="thomson-0" />
+<img src="https://github-readme-stats.vercel.app/api?username=thomsonxavier&show_icons=true&include_all_commits=true&theme=highcontrast&locale=en" alt="thomsonxavier" />
 
 [<img src="https://github-readme-stats.vercel.app/api?username=thomsonxavier&show_icons=true&include_all_commits=true&theme=highcontrast&locale=en" alt="thomsonxavier" />]: #
 
